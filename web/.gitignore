@@ -3,3 +3,4 @@ logs/*.json
 logs/*.png
 logs/*.html
 *.lock
+.rubocop.yml
