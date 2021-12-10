@@ -36,7 +36,7 @@ Para instalar o allure segue o manual oficial com cada passo:
 
 [https://docs.qameta.io/allure/](https://docs.qameta.io/allure/)
 
-para conseguir o relatório depois da instalação:
+Para conseguir o relatório depois da instalação:
 
 pré-requisito: java 
 
