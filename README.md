@@ -1,6 +1,6 @@
 # Automação de testes no site Lolja
 
-[https://img.shields.io/npm/l/react](https://img.shields.io/npm/l/react)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Brunogeraldo/Automa-de-testes-do-site-Lolja/blob/master/LICENSE)
 
 # Sobre o projeto
 
