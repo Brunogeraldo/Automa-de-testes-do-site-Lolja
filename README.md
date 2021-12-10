@@ -56,19 +56,19 @@ Allure serve logs\
 
 1. Selecione a aba suites
     
-    ![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0fa29d7-3997-4a82-8734-745d66a4f6a1/1.png)
+    ![Untitled](https://user-images.githubusercontent.com/93891156/145625449-08f86a35-de7b-41e1-bbe8-ffef9294cd6e.png)
     
 2. Escolha qual suite que deseja ver
     
-    ![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ec5aecc-64d5-4f8e-961d-cf7af3471e0a/2.png)
+   ![Untitled 1](https://user-images.githubusercontent.com/93891156/145625716-d1d8e4bc-b7cc-4348-af84-282691edac6a.png)
     
 3. Selecione o teste que deseja ver
     
-    ![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a48720d-832a-484f-b9b0-aef7f4a020a2/3.png)
+    ![Untitled 2](https://user-images.githubusercontent.com/93891156/145625822-479d9c1b-8d2c-4413-ac18-d48d2a283a62.png)
     
-4. Em tear down, clique em after hooks e depois em screenshot (para visualizar a imagem inteira, basta clicar na imagem que ira ampliar)
+4. Em tear down, clique em after hooks e depois em screenshot (para visualizar a imagem inteira, basta clicar na imagem abaixo)
     
-    ![4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33151172-2a8d-4288-82e2-4b6fa3b9af0a/4.png)
+    ![Untitled 3](https://user-images.githubusercontent.com/93891156/145625971-4f80847c-ded7-4b7c-8f45-2163fe7ddcc1.png)
     
 
 # Autor
